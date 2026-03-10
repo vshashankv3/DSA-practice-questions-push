@@ -1,3 +1,8 @@
+// Problem: https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1
+// Pattern: Array Traversal
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 class Solution {
     static ArrayList<Integer> leaders(int arr[]) {
 
